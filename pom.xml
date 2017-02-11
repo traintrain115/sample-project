@@ -73,7 +73,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>CounterWebApp-${version}</finalName>
+		<finalName>CounterWebApp</finalName>
 
 		<plugins>
 		    <!-- Eclipse project -->
